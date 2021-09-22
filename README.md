@@ -16,6 +16,7 @@ And this is the deployment
 
 ## How to Contribute
 
+Fork the repo and issue Pull request for review
 
 ### Copyright
 
