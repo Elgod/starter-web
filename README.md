@@ -19,4 +19,4 @@ And this is the deployment
 
 ### Copyright
 
-Git Training
+GIT Training
