@@ -15,3 +15,8 @@ This is the Purpose
 And this is the deployment
 
 ## How to Contribute
+
+
+### Copyright
+
+Git Training
