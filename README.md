@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Adding more test for rebase example.
+Adding more test for rebase example. More change from feature branch
 This is a sample website project for showing how to use Git and Github together.
 
 ## Introduction
